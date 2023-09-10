@@ -20,6 +20,7 @@ class RegisterActivity : AppCompatActivity() {
     private var cal = Calendar.getInstance()
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        setTheme(R.style.AppTheme)
         super.onCreate(savedInstanceState)
         registerBinding = ActivityRegisterBinding.inflate(layoutInflater)
         val view = registerBinding.root

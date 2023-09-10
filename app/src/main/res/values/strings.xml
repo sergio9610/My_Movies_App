@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mis Películas</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="rep_password">Repetir contraseña</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="favorite_genre">Seleccione sus generos favoritos</string>
+    <string name="genre_love">" Amor"</string>
+    <string name="genre_terror">Terror</string>
+    <string name="genre_suspense">Suspenso</string>
+    <string name="genre_comic">Humor</string>
+    <string name="genre_action">Acción</string>
+    <string name="genre_adventure">Aventura</string>
+    <string name="genre_fiction">Ficción</string>
+    <string name="genre_fantasy">"Fantasia "</string>
+    <string name="genre_drama">Drama</string>
+
+</resources>
